@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\DZ_Seminer4\yyyy\obj\Debug\net6.0\yyyy.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\DZ_Seminer4\yyyy\obj\Debug\net6.0\yyyy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\DZ_Seminer4\yyyy\obj\Debug\net6.0\yyyy.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\DZ_Seminer4\yyyy\obj\Debug\net6.0\yyyy.AssemblyInfo.cs
+C:\Users\HP\Desktop\DZ_Seminer4\yyyy\obj\Debug\net6.0\yyyy.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DZ_Seminer4\yyyy\bin\Debug\net6.0\yyyy.exe
+C:\Users\HP\Desktop\DZ_Seminer4\yyyy\bin\Debug\net6.0\yyyy.deps.json
+C:\Users\HP\Desktop\DZ_Seminer4\yyyy\bin\Debug\net6.0\yyyy.runtimeconfig.json
+C:\Users\HP\Desktop\DZ_Seminer4\yyyy\bin\Debug\net6.0\yyyy.dll
+C:\Users\HP\Desktop\DZ_Seminer4\yyyy\bin\Debug\net6.0\yyyy.pdb
+C:\Users\HP\Desktop\DZ_Seminer4\yyyy\obj\Debug\net6.0\yyyy.dll
+C:\Users\HP\Desktop\DZ_Seminer4\yyyy\obj\Debug\net6.0\refint\yyyy.dll
+C:\Users\HP\Desktop\DZ_Seminer4\yyyy\obj\Debug\net6.0\yyyy.pdb
+C:\Users\HP\Desktop\DZ_Seminer4\yyyy\obj\Debug\net6.0\yyyy.genruntimeconfig.cache
+C:\Users\HP\Desktop\DZ_Seminer4\yyyy\obj\Debug\net6.0\ref\yyyy.dll
