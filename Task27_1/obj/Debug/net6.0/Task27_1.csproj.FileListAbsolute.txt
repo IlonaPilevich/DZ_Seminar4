@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\DZ_Seminer4\Task27_1\bin\Debug\net6.0\Task27_1.exe
+C:\Users\HP\Desktop\DZ_Seminer4\Task27_1\bin\Debug\net6.0\Task27_1.deps.json
+C:\Users\HP\Desktop\DZ_Seminer4\Task27_1\bin\Debug\net6.0\Task27_1.runtimeconfig.json
+C:\Users\HP\Desktop\DZ_Seminer4\Task27_1\bin\Debug\net6.0\Task27_1.dll
+C:\Users\HP\Desktop\DZ_Seminer4\Task27_1\bin\Debug\net6.0\Task27_1.pdb
+C:\Users\HP\Desktop\DZ_Seminer4\Task27_1\obj\Debug\net6.0\Task27_1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\DZ_Seminer4\Task27_1\obj\Debug\net6.0\Task27_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\DZ_Seminer4\Task27_1\obj\Debug\net6.0\Task27_1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\DZ_Seminer4\Task27_1\obj\Debug\net6.0\Task27_1.AssemblyInfo.cs
+C:\Users\HP\Desktop\DZ_Seminer4\Task27_1\obj\Debug\net6.0\Task27_1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DZ_Seminer4\Task27_1\obj\Debug\net6.0\Task27_1.dll
+C:\Users\HP\Desktop\DZ_Seminer4\Task27_1\obj\Debug\net6.0\refint\Task27_1.dll
+C:\Users\HP\Desktop\DZ_Seminer4\Task27_1\obj\Debug\net6.0\Task27_1.pdb
+C:\Users\HP\Desktop\DZ_Seminer4\Task27_1\obj\Debug\net6.0\Task27_1.genruntimeconfig.cache
+C:\Users\HP\Desktop\DZ_Seminer4\Task27_1\obj\Debug\net6.0\ref\Task27_1.dll
